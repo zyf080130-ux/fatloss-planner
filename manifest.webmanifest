@@ -1,0 +1,37 @@
+{
+  "name": "循证减脂计划 · BMI/体脂/食谱/打卡",
+  "short_name": "减脂计划",
+  "description": "离线可用的循证减脂计划工具：三档减脂速度、纯饮食或健身两条路线、基于现有食材的一日三餐食谱、乒乓球与健身房消耗计入每日计划、体重趋势与平台期判断。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "lang": "zh-CN",
+  "categories": [
+    "health",
+    "fitness",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
